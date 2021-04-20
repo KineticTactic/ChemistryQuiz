@@ -1,0 +1,98 @@
+{
+    "electropositive": {
+        "monovalent": [
+            { "name": "Ammonium", "formula": "NH4" },
+            { "name": "Aurous", "formula": "Au" },
+            { "name": "Argentous", "formula": "Ag" },
+            { "name": "Cuprous", "formula": "Cu" },
+            { "name": "Hydrogen", "formula": "H" },
+            { "name": "Lithium", "formula": "Li" },
+            { "name": "Sodium", "formula": "Na" },
+            { "name": "Potassium", "formula": "K" },
+            { "name": "Mercurous", "formula": "Hg" }
+        ],
+        "divalent": [
+            { "name": "Argentic", "formula": "Ag" },
+            { "name": "Barium", "formula": "Ba" },
+            { "name": "Calcium", "formula": "Ca" },
+            { "name": "Cupric", "formula": "Cu" },
+            { "name": "Ferrous", "formula": "Fe" },
+            { "name": "Magnesium", "formula": "Mg" },
+            { "name": "Manganese", "formula": "Mn" },
+            { "name": "Mercuric", "formula": "Hg" },
+            { "name": "Nickel", "formula": "Ni" },
+            { "name": "Plumbous", "formula": "Pb" },
+            { "name": "Platinous", "formula": "Pt" },
+            { "name": "Stannous", "formula": "Sn" },
+            { "name": "Zinc", "formula": "Zn" }
+        ],
+        "trivalent": [
+            { "name": "Aluminium", "formula": "Al" },
+            { "name": "Arsenic", "formula": "As" },
+            { "name": "Auric", "formula": "Au" },
+            { "name": "Bismuth", "formula": "Bi" },
+            { "name": "Chromium", "formula": "Cr" },
+            { "name": "Ferric", "formula": "Fe" }
+        ],
+        "tetravalent": [
+            { "name": "Plumbic", "formula": "Pb" },
+            { "name": "Platinic", "formula": "Pt" },
+            { "name": "Stannic", "formula": "Sn" }
+        ]
+    },
+    "electronegative": {
+        "monovalent": [
+            { "name": "Acetate", "formula": "CH3COO" },
+            { "name": "Bicarbonate", "formula": "HCO3" },
+            { "name": "Bisulphide", "formula": "HS" },
+            { "name": "Bisulphate", "formula": "HSO4" },
+            { "name": "Bisulphite", "formula": "HSO3" },
+            { "name": "Bromide", "formula": "Br" },
+            { "name": "Chloride", "formula": "Cl" },
+            { "name": "Permanganate", "formula": "MnO4" },
+            { "name": "Fluoride", "formula": "F" },
+            { "name": "Hydride", "formula": "H" },
+            { "name": "Hydroxide", "formula": "OH" },
+            { "name": "Iodide", "formula": "I" },
+            { "name": "Cyanide", "formula": "CN" },
+            { "name": "Nitrate", "formula": "NO3" },
+            { "name": "Nitrite", "formula": "NO2" },
+            { "name": "Chlorite", "formula": "ClO2" },
+            { "name": "Hypochlorite", "formula": "ClO" },
+            { "name": "Chlorate", "formula": "ClO3" },
+            { "name": "Perchlorate", "formula": "ClO4" },
+            { "name": "Meta-aluminate", "formula": "AlO2" }
+        ],
+        "divalent": [
+            { "name": "Carbonate", "formula": "CO3" },
+            { "name": "Dichromate", "formula": "Cr2O7" },
+            { "name": "Oxide", "formula": "O" },
+            { "name": "Peroxide", "formula": "O2" },
+            { "name": "Sulphate", "formula": "SO4" },
+            { "name": "Sulphite", "formula": "SO3" },
+            { "name": "Sulphide", "formula": "S" },
+            { "name": "Silicate", "formula": "SiO3" },
+            { "name": "Thiosulphate", "formula": "S2O3" },
+            { "name": "Zincate", "formula": "ZnO2" },
+            { "name": "Plumbite", "formula": "PbO2" },
+            { "name": "Stannate", "formula": "SnO3" },
+            { "name": "Manganate", "formula": "MnO4" },
+            { "name": "Chromate", "formula": "CrO4" },
+            { "name": "Oxalate", "formula": "(COO)2" }
+        ],
+        "trivalent": [
+            { "name": "Arsenate", "formula": "AsO4" },
+            { "name": "Nitride", "formula": "N" },
+            { "name": "Aluminate", "formula": "AlO3" },
+            { "name": "Arsenite", "formula": "AsO3" },
+            { "name": "Phoshpide", "formula": "P" },
+            { "name": "Phosphite", "formula": "PO3" },
+            { "name": "Phosphate", "formula": "PO4" },
+            { "name": "Borate", "formula": "BO3" }
+        ],
+        "tetravalent": [
+            { "name": "Carbide", "formula": "C" },
+            { "name": "Ferrocyanide", "formula": "Fe(CN)6" }
+        ]
+    }
+}
